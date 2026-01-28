@@ -1,0 +1,591 @@
+Month,Product,Region,Sales
+Jan,50% Dark Bites,Australia,8386
+Jan,50% Dark Bites,Canada,20818
+Jan,50% Dark Bites,New Zealand,9835
+Jan,50% Dark Bites,UK,6083
+Jan,50% Dark Bites,USA,10486
+Jan,70% Dark Bites,Australia,4235
+Jan,70% Dark Bites,Canada,9632
+Jan,70% Dark Bites,India,14168
+Jan,70% Dark Bites,New Zealand,22512
+Jan,70% Dark Bites,UK,13972
+Jan,85% Dark Bars,Australia,15197
+Jan,85% Dark Bars,Canada,4200
+Jan,85% Dark Bars,India,13419
+Jan,85% Dark Bars,New Zealand,16604
+Jan,85% Dark Bars,UK,27993
+Jan,85% Dark Bars,USA,14161
+Jan,99% Dark & Pure,Australia,2583
+Jan,99% Dark & Pure,Canada,22253
+Jan,99% Dark & Pure,India,24129
+Jan,99% Dark & Pure,New Zealand,308
+Jan,99% Dark & Pure,UK,9730
+Jan,99% Dark & Pure,USA,19544
+Jan,After Nines,Canada,1820
+Jan,After Nines,India,29946
+Jan,After Nines,New Zealand,15155
+Jan,After Nines,UK,9709
+Jan,After Nines,USA,36547
+Jan,Almond Choco,Australia,3332
+Jan,Almond Choco,India,2380
+Jan,Almond Choco,New Zealand,20083
+Jan,Almond Choco,UK,8365
+Jan,Almond Choco,USA,4207
+Jan,Baker's Choco Chips,Australia,742
+Jan,Baker's Choco Chips,Canada,4879
+Jan,Baker's Choco Chips,India,2261
+Jan,Baker's Choco Chips,New Zealand,17535
+Jan,Baker's Choco Chips,UK,8267
+Jan,Baker's Choco Chips,USA,1470
+Jan,Caramel Stuffed Bars,Australia,4039
+Jan,Caramel Stuffed Bars,Canada,2366
+Jan,Caramel Stuffed Bars,India,10353
+Jan,Caramel Stuffed Bars,New Zealand,27741
+Jan,Caramel Stuffed Bars,UK,13363
+Jan,Caramel Stuffed Bars,USA,16737
+Jan,Choco Coated Almonds,Australia,8533
+Jan,Choco Coated Almonds,Canada,12005
+Jan,Choco Coated Almonds,India,12250
+Jan,Choco Coated Almonds,New Zealand,24654
+Jan,Choco Coated Almonds,UK,5628
+Jan,Choco Coated Almonds,USA,50414
+Jan,Drinking Coco,Australia,15099
+Jan,Drinking Coco,Canada,6573
+Jan,Drinking Coco,India,17458
+Jan,Drinking Coco,New Zealand,1239
+Jan,Drinking Coco,UK,8505
+Jan,Drinking Coco,USA,14434
+Jan,Eclairs,Canada,343
+Jan,Eclairs,India,25942
+Jan,Eclairs,New Zealand,13979
+Jan,Eclairs,UK,161
+Jan,Eclairs,USA,12565
+Jan,Fruit & Nut Bars,Australia,14574
+Jan,Fruit & Nut Bars,Canada,1267
+Jan,Fruit & Nut Bars,India,15470
+Jan,Fruit & Nut Bars,New Zealand,5880
+Jan,Fruit & Nut Bars,UK,26586
+Jan,Fruit & Nut Bars,USA,30940
+Jan,Manuka Honey Choco,Australia,13286
+Jan,Manuka Honey Choco,India,20552
+Jan,Manuka Honey Choco,New Zealand,5747
+Jan,Manuka Honey Choco,USA,16226
+Jan,Milk Bars,Australia,9646
+Jan,Milk Bars,Canada,8246
+Jan,Milk Bars,India,17640
+Jan,Milk Bars,New Zealand,15785
+Jan,Milk Bars,UK,9779
+Jan,Milk Bars,USA,20986
+Jan,Mint Chip Choco,Australia,3598
+Jan,Mint Chip Choco,Canada,7840
+Jan,Mint Chip Choco,India,19411
+Jan,Mint Chip Choco,New Zealand,11942
+Jan,Mint Chip Choco,UK,22428
+Jan,Orange Choco,Australia,4109
+Jan,Orange Choco,Canada,18690
+Jan,Orange Choco,India,7833
+Jan,Orange Choco,New Zealand,4312
+Jan,Orange Choco,UK,31248
+Jan,Orange Choco,USA,21238
+Jan,Organic Choco Syrup,Australia,1036
+Jan,Organic Choco Syrup,Canada,16422
+Jan,Organic Choco Syrup,India,21161
+Jan,Organic Choco Syrup,New Zealand,17710
+Jan,Organic Choco Syrup,UK,20685
+Jan,Organic Choco Syrup,USA,19075
+Jan,Peanut Butter Cubes,Canada,6965
+Jan,Peanut Butter Cubes,India,24234
+Jan,Peanut Butter Cubes,New Zealand,6979
+Jan,Peanut Butter Cubes,UK,7182
+Jan,Peanut Butter Cubes,USA,3878
+Jan,Raspberry Choco,Australia,10423
+Jan,Raspberry Choco,Canada,4165
+Jan,Raspberry Choco,New Zealand,24101
+Jan,Raspberry Choco,UK,32515
+Jan,Raspberry Choco,USA,14119
+Jan,Smooth Sliky Salty,Australia,4991
+Jan,Smooth Sliky Salty,Canada,33173
+Jan,Smooth Sliky Salty,India,644
+Jan,Smooth Sliky Salty,UK,15785
+Jan,Smooth Sliky Salty,USA,49406
+Jan,Spicy Special Slims,Canada,27188
+Jan,Spicy Special Slims,India,17122
+Jan,Spicy Special Slims,New Zealand,16093
+Jan,Spicy Special Slims,UK,18781
+Jan,Spicy Special Slims,USA,12992
+Jan,White Choc,Australia,24101
+Jan,White Choc,Canada,532
+Jan,White Choc,India,24962
+Jan,White Choc,New Zealand,6566
+Jan,White Choc,UK,14504
+Jan,White Choc,USA,6559
+Feb,50% Dark Bites,Australia,17094
+Feb,50% Dark Bites,Canada,25893
+Feb,50% Dark Bites,India,18032
+Feb,50% Dark Bites,New Zealand,427
+Feb,50% Dark Bites,UK,12565
+Feb,50% Dark Bites,USA,13839
+Feb,70% Dark Bites,Australia,13524
+Feb,70% Dark Bites,Canada,441
+Feb,70% Dark Bites,India,7616
+Feb,70% Dark Bites,New Zealand,32368
+Feb,70% Dark Bites,UK,23023
+Feb,70% Dark Bites,USA,13230
+Feb,85% Dark Bars,Canada,28357
+Feb,85% Dark Bars,India,13923
+Feb,85% Dark Bars,New Zealand,29512
+Feb,85% Dark Bars,UK,28532
+Feb,85% Dark Bars,USA,14112
+Feb,99% Dark & Pure,Australia,27265
+Feb,99% Dark & Pure,Canada,19201
+Feb,99% Dark & Pure,India,5663
+Feb,99% Dark & Pure,New Zealand,1302
+Feb,99% Dark & Pure,UK,14518
+Feb,99% Dark & Pure,USA,10598
+Feb,After Nines,Australia,23772
+Feb,After Nines,India,30177
+Feb,After Nines,New Zealand,7420
+Feb,After Nines,UK,27384
+Feb,After Nines,USA,29365
+Feb,Almond Choco,Australia,2968
+Feb,Almond Choco,Canada,20251
+Feb,Almond Choco,India,1386
+Feb,Almond Choco,New Zealand,735
+Feb,Almond Choco,UK,1288
+Feb,Almond Choco,USA,14525
+Feb,Baker's Choco Chips,Australia,6454
+Feb,Baker's Choco Chips,Canada,26831
+Feb,Baker's Choco Chips,India,14868
+Feb,Baker's Choco Chips,New Zealand,567
+Feb,Baker's Choco Chips,UK,7700
+Feb,Baker's Choco Chips,USA,7140
+Feb,Caramel Stuffed Bars,Australia,29449
+Feb,Caramel Stuffed Bars,Canada,9926
+Feb,Caramel Stuffed Bars,India,21315
+Feb,Caramel Stuffed Bars,USA,6468
+Feb,Choco Coated Almonds,Australia,10591
+Feb,Choco Coated Almonds,Canada,23688
+Feb,Choco Coated Almonds,India,27531
+Feb,Choco Coated Almonds,New Zealand,19299
+Feb,Drinking Coco,Australia,2793
+Feb,Drinking Coco,Canada,7959
+Feb,Drinking Coco,India,2604
+Feb,Drinking Coco,New Zealand,14420
+Feb,Drinking Coco,UK,1925
+Feb,Drinking Coco,USA,15659
+Feb,Eclairs,Australia,4753
+Feb,Eclairs,Canada,25270
+Feb,Eclairs,India,10115
+Feb,Eclairs,UK,7616
+Feb,Eclairs,USA,20944
+Feb,Fruit & Nut Bars,Australia,4781
+Feb,Fruit & Nut Bars,Canada,5306
+Feb,Fruit & Nut Bars,New Zealand,15589
+Feb,Fruit & Nut Bars,UK,17556
+Feb,Fruit & Nut Bars,USA,3997
+Feb,Manuka Honey Choco,Australia,686
+Feb,Manuka Honey Choco,Canada,12600
+Feb,Manuka Honey Choco,New Zealand,23695
+Feb,Manuka Honey Choco,UK,182
+Feb,Manuka Honey Choco,USA,13111
+Feb,Milk Bars,Canada,15925
+Feb,Milk Bars,India,37422
+Feb,Milk Bars,New Zealand,11858
+Feb,Milk Bars,UK,38248
+Feb,Milk Bars,USA,1974
+Feb,Mint Chip Choco,Canada,27181
+Feb,Mint Chip Choco,India,8736
+Feb,Mint Chip Choco,New Zealand,10206
+Feb,Mint Chip Choco,UK,980
+Feb,Mint Chip Choco,USA,11613
+Feb,Orange Choco,Australia,3591
+Feb,Orange Choco,Canada,10360
+Feb,Orange Choco,India,24276
+Feb,Orange Choco,New Zealand,15162
+Feb,Orange Choco,UK,4809
+Feb,Orange Choco,USA,217
+Feb,Organic Choco Syrup,Australia,6545
+Feb,Organic Choco Syrup,Canada,25550
+Feb,Organic Choco Syrup,India,48055
+Feb,Organic Choco Syrup,UK,11900
+Feb,Organic Choco Syrup,USA,45668
+Feb,Peanut Butter Cubes,Australia,10178
+Feb,Peanut Butter Cubes,Canada,25368
+Feb,Peanut Butter Cubes,India,2730
+Feb,Peanut Butter Cubes,New Zealand,3262
+Feb,Peanut Butter Cubes,UK,14147
+Feb,Peanut Butter Cubes,USA,14910
+Feb,Raspberry Choco,Australia,4998
+Feb,Raspberry Choco,India,23541
+Feb,Raspberry Choco,UK,4851
+Feb,Smooth Sliky Salty,Australia,13209
+Feb,Smooth Sliky Salty,Canada,1673
+Feb,Smooth Sliky Salty,India,13293
+Feb,Smooth Sliky Salty,New Zealand,18704
+Feb,Smooth Sliky Salty,UK,7616
+Feb,Smooth Sliky Salty,USA,15435
+Feb,Spicy Special Slims,Australia,4319
+Feb,Spicy Special Slims,Canada,20146
+Feb,Spicy Special Slims,India,30772
+Feb,Spicy Special Slims,New Zealand,2100
+Feb,Spicy Special Slims,UK,12460
+Feb,Spicy Special Slims,USA,28644
+Feb,White Choc,Australia,8421
+Feb,White Choc,Canada,12222
+Feb,White Choc,India,45864
+Feb,White Choc,New Zealand,3073
+Feb,White Choc,UK,18074
+Feb,White Choc,USA,343
+Mar,50% Dark Bites,Canada,2709
+Mar,50% Dark Bites,India,14084
+Mar,50% Dark Bites,USA,9254
+Mar,70% Dark Bites,Australia,14294
+Mar,70% Dark Bites,Canada,12740
+Mar,70% Dark Bites,India,5215
+Mar,70% Dark Bites,New Zealand,24836
+Mar,70% Dark Bites,UK,19222
+Mar,70% Dark Bites,USA,17647
+Mar,85% Dark Bars,Australia,2408
+Mar,85% Dark Bars,Canada,16597
+Mar,85% Dark Bars,India,13076
+Mar,85% Dark Bars,New Zealand,16793
+Mar,85% Dark Bars,UK,16387
+Mar,85% Dark Bars,USA,7175
+Mar,99% Dark & Pure,Australia,17122
+Mar,99% Dark & Pure,Canada,32529
+Mar,99% Dark & Pure,India,5908
+Mar,99% Dark & Pure,New Zealand,23625
+Mar,99% Dark & Pure,UK,2674
+Mar,99% Dark & Pure,USA,7840
+Mar,After Nines,Australia,17654
+Mar,After Nines,Canada,25872
+Mar,After Nines,India,15253
+Mar,After Nines,New Zealand,5306
+Mar,After Nines,UK,6860
+Mar,After Nines,USA,5334
+Mar,Almond Choco,Australia,18326
+Mar,Almond Choco,Canada,6622
+Mar,Almond Choco,India,12222
+Mar,Almond Choco,New Zealand,16660
+Mar,Almond Choco,UK,12187
+Mar,Almond Choco,USA,26278
+Mar,Baker's Choco Chips,Australia,28315
+Mar,Baker's Choco Chips,Canada,19901
+Mar,Baker's Choco Chips,India,26922
+Mar,Baker's Choco Chips,New Zealand,12705
+Mar,Baker's Choco Chips,UK,21462
+Mar,Baker's Choco Chips,USA,18683
+Mar,Caramel Stuffed Bars,Australia,24738
+Mar,Caramel Stuffed Bars,Canada,29911
+Mar,Caramel Stuffed Bars,India,23289
+Mar,Caramel Stuffed Bars,New Zealand,7546
+Mar,Caramel Stuffed Bars,UK,38108
+Mar,Caramel Stuffed Bars,USA,22246
+Mar,Choco Coated Almonds,Australia,8995
+Mar,Choco Coated Almonds,Canada,12187
+Mar,Choco Coated Almonds,India,11753
+Mar,Choco Coated Almonds,New Zealand,3136
+Mar,Choco Coated Almonds,UK,14665
+Mar,Drinking Coco,Australia,8085
+Mar,Drinking Coco,Canada,7049
+Mar,Drinking Coco,India,10367
+Mar,Drinking Coco,New Zealand,4718
+Mar,Drinking Coco,UK,448
+Mar,Drinking Coco,USA,23996
+Mar,Eclairs,Australia,2534
+Mar,Eclairs,Canada,10171
+Mar,Eclairs,India,13573
+Mar,Eclairs,New Zealand,19901
+Mar,Eclairs,UK,21462
+Mar,Eclairs,USA,18564
+Mar,Fruit & Nut Bars,Australia,22099
+Mar,Fruit & Nut Bars,Canada,10514
+Mar,Fruit & Nut Bars,India,19012
+Mar,Fruit & Nut Bars,New Zealand,23394
+Mar,Fruit & Nut Bars,USA,13013
+Mar,Manuka Honey Choco,Australia,6104
+Mar,Manuka Honey Choco,Canada,25025
+Mar,Manuka Honey Choco,New Zealand,18536
+Mar,Manuka Honey Choco,UK,2632
+Mar,Milk Bars,Australia,420
+Mar,Milk Bars,Canada,13293
+Mar,Milk Bars,New Zealand,21287
+Mar,Milk Bars,UK,17822
+Mar,Milk Bars,USA,1274
+Mar,Mint Chip Choco,Australia,11011
+Mar,Mint Chip Choco,Canada,10556
+Mar,Mint Chip Choco,India,9863
+Mar,Mint Chip Choco,New Zealand,26761
+Mar,Mint Chip Choco,UK,8967
+Mar,Mint Chip Choco,USA,12257
+Mar,Orange Choco,Australia,10262
+Mar,Orange Choco,Canada,14966
+Mar,Orange Choco,India,15365
+Mar,Orange Choco,New Zealand,24570
+Mar,Orange Choco,UK,4767
+Mar,Orange Choco,USA,2184
+Mar,Organic Choco Syrup,Australia,20020
+Mar,Organic Choco Syrup,Canada,17752
+Mar,Organic Choco Syrup,India,14105
+Mar,Organic Choco Syrup,New Zealand,19278
+Mar,Organic Choco Syrup,UK,26404
+Mar,Organic Choco Syrup,USA,12488
+Mar,Peanut Butter Cubes,Canada,4221
+Mar,Peanut Butter Cubes,India,26495
+Mar,Peanut Butter Cubes,New Zealand,36715
+Mar,Peanut Butter Cubes,UK,9499
+Mar,Peanut Butter Cubes,USA,17010
+Mar,Raspberry Choco,Australia,10437
+Mar,Raspberry Choco,Canada,13503
+Mar,Raspberry Choco,India,11788
+Mar,Raspberry Choco,New Zealand,2555
+Mar,Raspberry Choco,UK,10836
+Mar,Smooth Sliky Salty,Australia,7973
+Mar,Smooth Sliky Salty,Canada,22547
+Mar,Smooth Sliky Salty,India,20972
+Mar,Smooth Sliky Salty,New Zealand,7896
+Mar,Smooth Sliky Salty,USA,4522
+Mar,Spicy Special Slims,Australia,25123
+Mar,Spicy Special Slims,Canada,12481
+Mar,Spicy Special Slims,India,9597
+Mar,Spicy Special Slims,New Zealand,3094
+Mar,Spicy Special Slims,UK,21203
+Mar,Spicy Special Slims,USA,18886
+Mar,White Choc,India,16849
+Mar,White Choc,UK,1547
+Mar,White Choc,USA,14392
+Apr,50% Dark Bites,Australia,18473
+Apr,50% Dark Bites,Canada,13216
+Apr,50% Dark Bites,India,31654
+Apr,50% Dark Bites,New Zealand,7000
+Apr,50% Dark Bites,UK,7007
+Apr,70% Dark Bites,Australia,11522
+Apr,70% Dark Bites,Canada,8946
+Apr,70% Dark Bites,India,12306
+Apr,70% Dark Bites,New Zealand,11270
+Apr,70% Dark Bites,UK,17948
+Apr,70% Dark Bites,USA,7539
+Apr,85% Dark Bars,Australia,29379
+Apr,85% Dark Bars,Canada,10563
+Apr,85% Dark Bars,India,19530
+Apr,85% Dark Bars,New Zealand,6909
+Apr,85% Dark Bars,USA,22344
+Apr,99% Dark & Pure,Australia,27748
+Apr,99% Dark & Pure,Canada,10297
+Apr,99% Dark & Pure,India,5957
+Apr,99% Dark & Pure,New Zealand,24801
+Apr,99% Dark & Pure,UK,17353
+Apr,99% Dark & Pure,USA,18214
+Apr,After Nines,Australia,18879
+Apr,After Nines,Canada,2100
+Apr,After Nines,New Zealand,11081
+Apr,After Nines,USA,20258
+Apr,Almond Choco,Australia,10059
+Apr,Almond Choco,Canada,22386
+Apr,Almond Choco,India,26929
+Apr,Almond Choco,New Zealand,10500
+Apr,Almond Choco,UK,43358
+Apr,Almond Choco,USA,1365
+Apr,Baker's Choco Chips,Australia,36442
+Apr,Baker's Choco Chips,Canada,12173
+Apr,Baker's Choco Chips,India,34216
+Apr,Baker's Choco Chips,UK,630
+Apr,Baker's Choco Chips,USA,10381
+Apr,Caramel Stuffed Bars,India,21
+Apr,Caramel Stuffed Bars,New Zealand,11326
+Apr,Caramel Stuffed Bars,UK,25389
+Apr,Caramel Stuffed Bars,USA,9485
+Apr,Choco Coated Almonds,Australia,12103
+Apr,Choco Coated Almonds,New Zealand,10178
+Apr,Choco Coated Almonds,UK,6629
+Apr,Choco Coated Almonds,USA,15946
+Apr,Drinking Coco,Australia,11928
+Apr,Drinking Coco,Canada,13601
+Apr,Drinking Coco,India,4053
+Apr,Drinking Coco,New Zealand,6713
+Apr,Drinking Coco,UK,8631
+Apr,Drinking Coco,USA,2807
+Apr,Eclairs,Australia,10955
+Apr,Eclairs,Canada,36456
+Apr,Eclairs,UK,13083
+Apr,Fruit & Nut Bars,Australia,22631
+Apr,Fruit & Nut Bars,Canada,4676
+Apr,Fruit & Nut Bars,India,994
+Apr,Fruit & Nut Bars,New Zealand,1078
+Apr,Fruit & Nut Bars,UK,8736
+Apr,Manuka Honey Choco,Australia,11522
+Apr,Manuka Honey Choco,Canada,18795
+Apr,Manuka Honey Choco,India,10199
+Apr,Manuka Honey Choco,New Zealand,23989
+Apr,Manuka Honey Choco,UK,16450
+Apr,Manuka Honey Choco,USA,15064
+Apr,Milk Bars,Australia,9954
+Apr,Milk Bars,India,14623
+Apr,Milk Bars,New Zealand,21140
+Apr,Milk Bars,USA,25088
+Apr,Mint Chip Choco,Australia,8785
+Apr,Mint Chip Choco,Canada,3514
+Apr,Mint Chip Choco,India,8694
+Apr,Mint Chip Choco,New Zealand,10528
+Apr,Mint Chip Choco,UK,9450
+Apr,Mint Chip Choco,USA,30212
+Apr,Orange Choco,Canada,20111
+Apr,Orange Choco,India,20713
+Apr,Orange Choco,New Zealand,8176
+Apr,Orange Choco,UK,11907
+Apr,Orange Choco,USA,6153
+Apr,Organic Choco Syrup,Australia,9996
+Apr,Organic Choco Syrup,Canada,9268
+Apr,Organic Choco Syrup,India,17437
+Apr,Organic Choco Syrup,New Zealand,4858
+Apr,Organic Choco Syrup,UK,14231
+Apr,Organic Choco Syrup,USA,4795
+Apr,Peanut Butter Cubes,Australia,14658
+Apr,Peanut Butter Cubes,Canada,6692
+Apr,Peanut Butter Cubes,India,3661
+Apr,Peanut Butter Cubes,New Zealand,9177
+Apr,Peanut Butter Cubes,UK,11123
+Apr,Peanut Butter Cubes,USA,11851
+Apr,Raspberry Choco,Australia,16632
+Apr,Raspberry Choco,Canada,1841
+Apr,Raspberry Choco,India,4256
+Apr,Raspberry Choco,New Zealand,18767
+Apr,Raspberry Choco,USA,46389
+Apr,Smooth Sliky Salty,Australia,15547
+Apr,Smooth Sliky Salty,New Zealand,3773
+Apr,Smooth Sliky Salty,UK,11361
+Apr,Smooth Sliky Salty,USA,6790
+Apr,Spicy Special Slims,Australia,2555
+Apr,Spicy Special Slims,India,4018
+Apr,Spicy Special Slims,New Zealand,17850
+Apr,Spicy Special Slims,UK,22512
+Apr,Spicy Special Slims,USA,9044
+Apr,White Choc,Australia,9387
+Apr,White Choc,Canada,37905
+Apr,White Choc,New Zealand,21420
+Apr,White Choc,UK,42301
+Apr,White Choc,USA,22386
+May,50% Dark Bites,Australia,3640
+May,50% Dark Bites,Canada,2527
+May,50% Dark Bites,India,15652
+May,50% Dark Bites,New Zealand,19852
+May,50% Dark Bites,UK,18501
+May,50% Dark Bites,USA,49266
+May,70% Dark Bites,Australia,11284
+May,70% Dark Bites,Canada,5131
+May,70% Dark Bites,India,19425
+May,70% Dark Bites,New Zealand,9324
+May,70% Dark Bites,UK,32361
+May,70% Dark Bites,USA,8526
+May,85% Dark Bars,Australia,903
+May,85% Dark Bars,Canada,3325
+May,85% Dark Bars,India,11102
+May,85% Dark Bars,New Zealand,2961
+May,85% Dark Bars,UK,8652
+May,85% Dark Bars,USA,24892
+May,99% Dark & Pure,Australia,7084
+May,99% Dark & Pure,India,9800
+May,99% Dark & Pure,New Zealand,7441
+May,99% Dark & Pure,UK,2436
+May,After Nines,Australia,14812
+May,After Nines,Canada,41636
+May,After Nines,India,4438
+May,After Nines,New Zealand,22988
+May,After Nines,UK,14574
+May,After Nines,USA,35217
+May,Almond Choco,Australia,24164
+May,Almond Choco,Canada,15484
+May,Almond Choco,India,38052
+May,Almond Choco,New Zealand,15603
+May,Almond Choco,UK,20797
+May,Almond Choco,USA,9940
+May,Baker's Choco Chips,Canada,1526
+May,Baker's Choco Chips,India,11508
+May,Baker's Choco Chips,New Zealand,12523
+May,Baker's Choco Chips,UK,15785
+May,Baker's Choco Chips,USA,5327
+May,Caramel Stuffed Bars,Australia,5061
+May,Caramel Stuffed Bars,Canada,9310
+May,Caramel Stuffed Bars,India,13083
+May,Caramel Stuffed Bars,New Zealand,10801
+May,Caramel Stuffed Bars,USA,15778
+May,Choco Coated Almonds,Canada,2870
+May,Choco Coated Almonds,India,623
+May,Choco Coated Almonds,USA,168
+May,Drinking Coco,Australia,27342
+May,Drinking Coco,India,13181
+May,Drinking Coco,New Zealand,5453
+May,Drinking Coco,UK,7742
+May,Drinking Coco,USA,1414
+May,Eclairs,Canada,6762
+May,Eclairs,India,4228
+May,Eclairs,New Zealand,10934
+May,Eclairs,UK,20020
+May,Eclairs,USA,2933
+May,Fruit & Nut Bars,Australia,12754
+May,Fruit & Nut Bars,Canada,19054
+May,Fruit & Nut Bars,India,16135
+May,Fruit & Nut Bars,New Zealand,16254
+May,Fruit & Nut Bars,UK,14357
+May,Fruit & Nut Bars,USA,7098
+May,Manuka Honey Choco,Australia,32130
+May,Manuka Honey Choco,Canada,441
+May,Manuka Honey Choco,India,12558
+May,Manuka Honey Choco,New Zealand,7
+May,Manuka Honey Choco,UK,17297
+May,Manuka Honey Choco,USA,16198
+May,Milk Bars,Australia,4214
+May,Milk Bars,Canada,17703
+May,Milk Bars,India,17430
+May,Milk Bars,New Zealand,10178
+May,Milk Bars,UK,24269
+May,Milk Bars,USA,21714
+May,Mint Chip Choco,Australia,20993
+May,Mint Chip Choco,Canada,35812
+May,Mint Chip Choco,India,10696
+May,Mint Chip Choco,New Zealand,17605
+May,Mint Chip Choco,UK,14938
+May,Mint Chip Choco,USA,8281
+May,Orange Choco,Australia,17976
+May,Orange Choco,Canada,3101
+May,Orange Choco,India,21763
+May,Orange Choco,New Zealand,8722
+May,Orange Choco,UK,5215
+May,Orange Choco,USA,15085
+May,Organic Choco Syrup,Australia,16982
+May,Organic Choco Syrup,Canada,22351
+May,Organic Choco Syrup,India,14476
+May,Organic Choco Syrup,New Zealand,23821
+May,Organic Choco Syrup,UK,14315
+May,Organic Choco Syrup,USA,12453
+May,Peanut Butter Cubes,Australia,10234
+May,Peanut Butter Cubes,Canada,8708
+May,Peanut Butter Cubes,India,6440
+May,Peanut Butter Cubes,New Zealand,31465
+May,Peanut Butter Cubes,UK,16072
+May,Peanut Butter Cubes,USA,6097
+May,Raspberry Choco,Australia,6601
+May,Raspberry Choco,Canada,17836
+May,Raspberry Choco,India,23919
+May,Raspberry Choco,New Zealand,13643
+May,Raspberry Choco,UK,8785
+May,Raspberry Choco,USA,17325
+May,Smooth Sliky Salty,Australia,14623
+May,Smooth Sliky Salty,Canada,17717
+May,Smooth Sliky Salty,India,17787
+May,Smooth Sliky Salty,New Zealand,10724
+May,Smooth Sliky Salty,UK,2821
+May,Smooth Sliky Salty,USA,4851
+May,Spicy Special Slims,Australia,18662
+May,Spicy Special Slims,India,24255
+May,Spicy Special Slims,New Zealand,11025
+May,Spicy Special Slims,UK,3738
+May,Spicy Special Slims,USA,2912
+May,White Choc,Australia,44107
+May,White Choc,Canada,9457
+May,White Choc,New Zealand,5089
+May,White Choc,UK,13125
+May,White Choc,USA,28686
+Jun,50% Dark Bites,Australia,6181
+Jun,50% Dark Bites,Canada,8792
+Jun,50% Dark Bites,New Zealand,
