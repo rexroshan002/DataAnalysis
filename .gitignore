@@ -1,0 +1,15 @@
+# .gitignore for data analysis projects
+
+# Exclude large data files
+*.csv
+*.xlsx
+*.json
+
+# Exclude temporary files
+*.tmp
+*.temp
+*.log
+
+# Exclude analysis outputs
+output/
+results/
